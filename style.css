@@ -173,6 +173,8 @@ footer {
     }
 }
 
-.gif {
-    margin-inline:30%;
+.center{
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
 }
